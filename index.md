@@ -1,11 +1,11 @@
----
-title: "无成本申请 GitHub 学生开发包"
-date: 2025-01-31
-categories: ["GitHub", "科技", "福利"]
-theme: "dark"
-background: "https://source.unsplash.com/random/1600x900?technology"
----
-
+<style>
+body {
+    background-image: url('https://source.unsplash.com/random/1600x900?technology');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+</style>
 # 🎓 无成本申请 GitHub 学生开发包
 
 GitHub 学生开发包（Student Developer Pack）提供 **免费开发工具**，无需教育邮箱，无需学生证，白嫖就是这么简单！✨
