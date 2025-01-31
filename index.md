@@ -15,10 +15,19 @@ GitHub 学生开发包（Student Developer Pack）提供 **免费开发工具**�
 - **提供学籍证明**（无学生证可手写）  
 - **填写 GitHub 账单信息**（法定姓名）
 - 请注意，账单信息的地址要和学校距离近一点。 
-- **关闭 VPN，确保位置信息匹配**  
+- **关闭 VPN，确保位置信息匹配**
+- **选择学校，请选择离你实际定位近的，或者虚拟定位。需要教育邮箱的学校无解，高中/大专/普通不知名二本 通过率最高**
 
 ## 📝 手写学生证格式
-
+XXXX School
+Student ID Card
+First Name: XXXXXX
+Last Name: XXXXXX
+Age: 18/19/20
+Date of Birth: 2006/01/10
+Class: 05-2024
+Subject: Computer Science And Technology
+Vaild Date **（特别重要 必写）**:2024 09 01 -- 2028 07 01
 可 **打印或手写**，然后拍照上传。
 
 ## 📌 申请流程
