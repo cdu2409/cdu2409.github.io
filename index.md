@@ -1,6 +1,6 @@
 ---
 title: "无成本申请 GitHub 学生开发包"
-date: 2024-03-02
+date: 2025-01-31
 categories: ["GitHub", "科技", "福利"]
 theme: "dark"
 background: "https://source.unsplash.com/random/1600x900?technology"
