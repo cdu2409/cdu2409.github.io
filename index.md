@@ -72,6 +72,6 @@ GitHub 学生开发包（Student Developer Pack）提供 **免费开发工具**�
 
 ## 📬 额外支持
 💡 **若遇到审核问题，可提交工单或咨询我（TG:aipecl,微信:nonopwn）**  
-📌 **GitHub 账户 Bio 不能留白，信息越完整越好！**  
+📌 **GitHub 账户 Bio 不能留白（其实留白也没问题，看号）！**  
 
 📢 **苦逼站长带你一起申请学生包！🎉**  
